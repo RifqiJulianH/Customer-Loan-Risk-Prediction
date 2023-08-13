@@ -6,6 +6,7 @@
 - [EDA](#EDA)
 - [Model](#model)
 - [Results](#results)
+- [Conclusion](#Conclusion)
 - [Model Deployment](#ModelDeployment)
 
 ## Introduction
@@ -47,6 +48,9 @@ After fine-tuning the model, we achieved an accuracy of 86% on the test set. Thi
 The Decision Tree model achieved an accuracy of approximately 86% in predicting loan defaults. The insights gained from the model can help the bank identify high-risk customers and make informed decisions to manage credit risk.
 
 ![Alt Text](classificationReport.png)
+
+## Conclusion
+This model is able to predict quite well which customers are likely to default on their loans. With an accuracy of 86%, the model can provide valuable information for businesses to identify loan customers at risk, and also with this model, businesses can analyze the factors that contribute to customers risk of defaulting on the debt. This can provide businesses with valuable information to understand the characteristics and behavior of potentially problematic customers. 
 
 ## ModelDeployment
 For the Customer Loan Risk Prediction App can acces by using this link : 
