@@ -45,7 +45,8 @@ After fine-tuning the model, we achieved an accuracy of 86% on the test set. Thi
 
 ## Results
 The Decision Tree model achieved an accuracy of approximately 86% in predicting loan defaults. The insights gained from the model can help the bank identify high-risk customers and make informed decisions to manage credit risk.
-![Alt Text](classification Report.png)
+
+![Alt Text](classificationReport.png)
 
 ## Model Deployment
 
