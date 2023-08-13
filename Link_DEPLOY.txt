@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/RifqiJH/CUSTOMER_LOAN_RISK_PREDICTION_APP
