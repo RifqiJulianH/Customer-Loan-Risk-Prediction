@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Objective](#objective)
-- [Getting Started](#getting-started)
 - [Data](#data)
+- [EDA](#EDA)
 - [Model](#model)
 - [Usage](#usage)
 - [Results](#results)
@@ -19,15 +19,12 @@ The main objectives of this project are:
 1. Build a predictive model for customer loan default prediction.
 2. Gain insights into customer behavior based on the provided dataset.
 
-## Getting Started
-To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/your-username/customer-loan-default.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Streamlit app: `streamlit run app.py`
-
 ## Data
 The dataset used for this project contains historical customer behavior data, including features such as salary, marital status, profession, etc. The dataset is available in the `data.csv` file.
 
+## EDA
+![Alt Text](target.png)
+![Alt Text](top5.png)
 ## Model
 The predictive model is based on a Decision Tree algorithm. It is trained on the historical customer behavior data to predict the likelihood of loan defaults.
 
