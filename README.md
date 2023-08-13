@@ -49,6 +49,7 @@ The Decision Tree model achieved an accuracy of approximately 86% in predicting 
 ![Alt Text](classificationReport.png)
 
 ## ModelDeployment
-
+For the Customer Loan Risk Prediction App can acces by using this link : 
+https://huggingface.co/spaces/RifqiJH/CUSTOMER_LOAN_RISK_PREDICTION_APP
 
 
